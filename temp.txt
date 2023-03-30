@@ -1,0 +1,7 @@
+unsplash - for pictures
+manypixels - free pictures
+Bootstrap 5 has to be downloaded in each project from the bootstrap 5 website
+cssgradient.io - for gradient colors
+googlefont - for fonts
+bootstrap docs
+getwaves.io
